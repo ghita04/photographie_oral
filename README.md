@@ -53,9 +53,14 @@ L'iso représente le bruit ou, autrement dit, le grain présent dans une photo. 
 
 La vitesse d’obturation gère la netteté de l'image. Elle ne doit jamais être en bas de 1/60s à main levée, car quand tu appuies sur le déclencheur, ça parait et ça donne des photos flous.
 
+![Screenshot (777)](https://user-images.githubusercontent.com/93718412/145326400-1db56ecc-6aca-45c8-9193-714f8cf7b860.png)
+
 ### L'ouverture (F) 
 
 L'ouverture correspond à la profondeur de champs et contrôle l’entrée de la lumière. Plus le F est gros, plus l’ouverture est grande.
+
+![Explication-ouverture-diaphragme](https://user-images.githubusercontent.com/93718412/145326725-318c88ed-ff13-4e15-a443-8c7eb38b5dd6.jpg)
+
 
 
 
