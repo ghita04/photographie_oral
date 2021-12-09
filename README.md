@@ -20,4 +20,21 @@ Ceci est le premier résultat d'une expérience de Nicéphore Niépce. Cette pho
 
 *Le Traité d'optique est un ouvrage en sept volumes, traitant de domaines scientifiques variés, l’optique, la physique, les mathématiques, la médecine, l’anatomie et la psychologie, écrit par le scientifique arabe Alhazen au début du XIᵉ siècle.
 
+# Quelles sont les différentes composantes d'un appareil photo ? 
+
+- Un viseur 
+- Un déclencheur
+- Un objectif 
+- Un diaphragme 
+- Un obturateur
+- Un capteur 
+- Une carte SD
+- etc ... 
+
+Voilà un petit schéma rapide : 
+
+![composantesreflexferme1](https://user-images.githubusercontent.com/93718412/145323667-f511298b-efc0-49ce-b079-2af157ded0dc.jpg)
+
+# Comment prendre une belle photo ? 
+
 
