@@ -61,6 +61,16 @@ L'ouverture correspond à la profondeur de champs et contrôle l’entrée de la
 
 ![Explication-ouverture-diaphragme](https://user-images.githubusercontent.com/93718412/145326725-318c88ed-ff13-4e15-a443-8c7eb38b5dd6.jpg)
 
+# Les alternatives si vous n'avez pas de caméra à la maison !
+
+J'ai remarqué récemment que les nouveaux téléphones avaient quelque chose qui se nomme le mode ''Pro''. C'est un mode qui simule à peu près une vrai caméra et qui a un rendu bien meilleur qu'une photo normale.
+
+Voilà l'écran d'un mode pro : 
+
+![IMG_7171](https://user-images.githubusercontent.com/93718412/145328572-72d9e7e9-8994-49ad-9765-4e323286d39f.png)
+
+On y apperçoit que l'iso est modifiable en plus de beaucoup plus de fonctionnalités pour jouer dans les contrastes et la luminosité.
+
 
 
 
