@@ -12,7 +12,7 @@ Finalement, en combinant ces deux éléments, c'est vers 1780 que Jacques Charle
 
 Un travail allongé sur des années a été regroupé par Nicéphore Niépce, un inventeur de Chalon-sur-Saône, qui, en combinant toutes les expériences de ses prédécesseurs parvient à faire une photographie de bien meilleure qualité que Jacques Charles. Décédé en 1833, c'est Louis Daguerre qui poursuit l'amélioration du procédé. En découvrant le principe du développement de l'image latente, Daguerre trouve le moyen de raccourcir le temps de pose à quelques dizaines de minutes. En 1839, il promeut son invention auprès du savant et député François Arago, qui lui accorde son soutien.
 
-Malgré tous ces essais, la date conventionnel de la première photographie étant réellement faite date du 7 janvier 1839. Et en 1861, Thomas Sutton réalise la première photographie couleur.
+Malgré tous ces essais, la date conventionnelle de la première photographie étant réellement faite date du 7 janvier 1839. Et en 1861, Thomas Sutton réalise la première photographie couleur.
 
 ![330px-View_from_the_Window_at_Le_Gras,_Joseph_Nicéphore_Niépce,_uncompressed_UMN_source](https://user-images.githubusercontent.com/93718412/145322338-94169abe-d2bd-415b-b3c6-eb5a26439482.png)
 
