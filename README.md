@@ -37,4 +37,26 @@ Voilà un petit schéma rapide :
 
 # Comment prendre une belle photo ? 
 
+Pour réaliser une belle photo, il faut d'abord connaitre les trois paramètres de gestion de l'entrée de la lumière. 
+
+![triangle-exposition-1024x679](https://user-images.githubusercontent.com/93718412/145324412-fad67250-e6b4-46f2-9c97-08d022a8f5dd.png)
+
+Voilà le triangle d'exposition. Il comprend les trois paramètres principaux nécessaires pour comprendre le fonctionnement de l'appareil photo. 
+
+### L'iso (la sensibilité)
+
+L'iso représente le bruit ou, autrement dit, le grain présent dans une photo. Plus l’iso est élevé, plus l’image est dégradée. Un iso 100 est préférable. 
+
+![Clipboard01](https://user-images.githubusercontent.com/93718412/145324743-35403710-f841-4b0a-a8ba-1b9799c646fc.jpg)
+
+### La vitesse (1/... s)
+
+La vitesse d’obturation gère la netteté de l'image. Elle ne doit jamais être en bas de 1/60s à main levée, car quand tu appuies sur le déclencheur, ça parait et ça donne des photos flous.
+
+### L'ouverture (F) 
+
+L'ouverture correspond à la profondeur de champs et contrôle l’entrée de la lumière. Plus le F est gros, plus l’ouverture est grande.
+
+
+
 
